@@ -27,6 +27,7 @@
     width: 100%;
 }
 .col-title{
+    width: 586px;
     width: 100%;
     color: var(--gray-1, #333);
     font-family: Space Mono;
@@ -37,6 +38,7 @@
     letter-spacing: -2.24px;
 }
 .col-description{
+    width: 381px;
     width: 100%;
     color: var(--gray-2, #4F4F4F);
     font-family: Space Mono;
@@ -71,6 +73,5 @@
     }
     .col p{
         width: 100%;
-        font-size: 22px;
     }
 }
